@@ -1,0 +1,13 @@
+Source: firefox-activity
+Section: user
+Priority: optional
+Maintainer: Gustavo Duarte <gus.duarte@gmail.com>
+Build-Depends: debhelper (>= 9.0.0)
+Standards-Version: 3.9.5
+Vcs-Git: git://github.com/ceibal-tatu/firefox-activity.git
+Vcs-Browser: https://github.com/ceibal-tatu/firefox-activity/
+
+Package: firefox-activity
+Architecture: all
+Depends: ${misc:Depends}, firefox (>= 26.0)
+Description: Actividad de Sugar, que lanza el Navegador Firefox instalado en el sistema.

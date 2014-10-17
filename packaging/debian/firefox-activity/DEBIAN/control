@@ -1,0 +1,9 @@
+Package: firefox-activity
+Version: 1.0
+Architecture: all
+Maintainer: Gustavo Duarte <gus.duarte@gmail.com>
+Installed-Size: 68
+Depends: firefox (>= 26.0)
+Section: user
+Priority: optional
+Description: Actividad de Sugar, que lanza el Navegador Firefox instalado en el sistema.
