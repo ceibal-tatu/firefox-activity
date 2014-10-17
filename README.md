@@ -1,4 +1,4 @@
 Actividad de Sugar Firefox
 =====================================
 
-Lanzador del navegador firefox instalado en el sitema
+Lanzador del navegador Firefox instalado en el sistema
